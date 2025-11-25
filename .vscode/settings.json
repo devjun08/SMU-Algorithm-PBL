@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "utility": "cpp",
+        "queue": "cpp",
+        "iostream": "cpp",
+        "variant": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "string": "cpp"
+    }
+}
